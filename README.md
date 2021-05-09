@@ -7,7 +7,9 @@ The challenge objective is to determine the temperature trends for the months of
 After analyzing the data for the temperatures for June and December, as seen below in the picture (fig 1), we can say that:
 
 -Minimum temperatures in December are 12.5% lower than those in June (56 vs 64),
+
 -Average temperature is above 70 degrees in both months with less than 4 degrees difference
+
 -Max temperature is about 2 degrees difference between June and December
 
 
